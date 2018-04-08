@@ -1,0 +1,13 @@
+[github]
+	user = mwieth
+	
+[alias]
+	b = branch
+	ci = commit
+	cim = commit -m
+	co = checkout
+	cp = cherry-pick
+	d = diff
+	last = log -1
+	st = status
+	sta = stash
