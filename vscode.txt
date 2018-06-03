@@ -1,0 +1,6 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 2,
+    "editor.fontSize": 17,
+    "editor.formatOnSave": true,
+}
