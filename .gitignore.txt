@@ -1,12 +1,19 @@
 node_modules/
 
+# Database
+*.sql
+*.sqlite
+
+# logs
+npm-debug.log
+*.log
+
+# mac
+.DS_Store*
+
+# packed
 *.rar
 *.tar
 *.zip
 
-
-*.log
-*.sql
-*.sqlite
-
-.DS_Store*
+.idea/
