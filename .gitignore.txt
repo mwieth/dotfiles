@@ -1,0 +1,12 @@
+node_modules/
+
+*.rar
+*.tar
+*.zip
+
+
+*.log
+*.sql
+*.sqlite
+
+.DS_Store*
