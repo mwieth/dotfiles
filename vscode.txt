@@ -3,4 +3,6 @@
     "editor.tabSize": 2,
     "editor.fontSize": 17,
     "editor.formatOnSave": true,
+    "window.zoomLevel": 0,
+    "editor.renderWhitespace": "all",
 }
