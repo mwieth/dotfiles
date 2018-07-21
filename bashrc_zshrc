@@ -1,0 +1,15 @@
+alias hosts = 'nano /etc/hosts'
+
+# Vagrant
+alias vu='vagrant up'
+alias vr='vagrant reload'
+alias vh='vagrant halt'
+
+# Docker
+
+alias dps="docker ps -a"
+
+dstopall() { docker stop $(docker ps -a -q); }
+
+# Bash into running container
+dbash() { docker exec -it $(docker ps -aqf "name=$1") bash; }
