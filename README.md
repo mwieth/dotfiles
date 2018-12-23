@@ -1,3 +1,3 @@
 # dotfiles
 
-just congig stuff
+just config stuff
