@@ -1,4 +1,4 @@
-node_modules/
+node_modules
 
 # Database
 *.sql
@@ -20,7 +20,8 @@ npm-debug.log
 dist
 dest
 
-# log
-*.log
+# temporary
+tmp
+temp
 
 .idea/
