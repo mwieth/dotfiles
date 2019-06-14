@@ -1,4 +1,6 @@
+# Node
 node_modules
+npm-debug.log
 
 # Database
 *.sql
@@ -21,6 +23,7 @@ dist
 dest
 
 # temporary
+_tmp
 tmp
 temp
 
